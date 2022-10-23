@@ -1,5 +1,10 @@
 # Password Generator
 
+## Link
+
+- Live Site URL: [https://saadmalik200.github.io/password-generator-DOM/](https://saadmalik200.github.io/password-generator-DOM/)
+
+
 Description:
 
 - This app generates passwords.
